@@ -1,4 +1,4 @@
-This repository contains the text and supplementairy videos of the PhD thesis of Jasper C. Croll.
+This repository contains the text and supplementary videos of the PhD thesis of Jasper C. Croll.
 
 The thesis and video's are publicly available to read and watch. A detailed expanation of the content in the video is given in the thesis.
 
